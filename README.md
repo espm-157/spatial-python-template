@@ -26,7 +26,7 @@
 
 This paper will explore evidence for systemic racism by examining the legacy of redlining practices using satellite imagery. 
 
-[Schell et al 2020](https://doi.org/10.1126/science.aay4497)
+[Schell et al 2020](https://doi.org/10.1126/science.aay4497).  ([video lecture](https://www.youtube.com/watch?v=nnH9RSzORV0))
 
 ## Links
 
