@@ -2,3 +2,9 @@ pandas
 seaborn
 ibis-framework[duckdb]
 nbval
+leafmap[maplibre]
+geopandas
+pystac-client
+odc-stac
+rioxarray
+exactextract
