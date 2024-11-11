@@ -7,6 +7,7 @@ jobs:
     runs-on: arc-runner-espm157-f24 # ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      GDAL_HTTP_UNSAFESSL: YES
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
