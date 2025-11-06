@@ -27,7 +27,7 @@
 | Criteria | Points |
 |----------|--------|
 | Compute zonal statistics | 1 |
-| Visualization in plots/charts (seaborn) | 1 |
+| Visualization in plots/charts (bar chart or table) | 1 |
 | Visualization in leafmap | 1 |
 
 ## 3. Text-based Explanations and Scientific Context (6 points)
