@@ -4,7 +4,8 @@ name: Reproducibility Check
 jobs:
   render:
     name: execute notebook
-    runs-on: arc-runner-espm288 # ubuntu-latest
+    runs-on: arc-runner-espm157 # ubuntu-latest
+    container: rocker/ml
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
       GDAL_HTTP_UNSAFESSL: YES
